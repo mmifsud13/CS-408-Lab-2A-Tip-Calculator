@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mifsud CS 408 Lab #2B Tip Calculator</string>
+    <string name="totalBill">Total Bill</string>
+    <string name="tipPercentage">Tip Percentage</string>
+    <string name="numPeople">Number of People</string>
+    <string name="calculate">Calculate</string>
+    <string name="totalPerPerson">Total per Person: </string>
+
+</resources>
